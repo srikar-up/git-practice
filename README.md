@@ -1,2 +1,4 @@
 # git-practice
-lol
+hey everyone
+welcome to git-practice
+
